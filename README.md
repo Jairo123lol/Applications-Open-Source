@@ -34,7 +34,7 @@ Open-source applications for Developers - Beginners.
 
 - [Graphite](https://graphite.art/) *(Broswer)*
 - [Inkscape](https://inkscape.app/) *(Windows - MacOS - Linux)*
-- [sK1](https://sk1project.net/](https://github.com/sk1-project/sk1-wx)) *(Windows - MacOS - Linux)*
+- [sK1](https://github.com/sk1-project/sk1-wx) *(Windows - MacOS - Linux)*
 
   ### Live Trace
 
