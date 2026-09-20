@@ -59,3 +59,27 @@ Open-source applications for Developers - Beginners.
 - [Besprited](https://github.com/veritaware/Besprited) *(Windows - MacOs - Linux)*
 - [Pix8](https://github.com/DynartInteractive/Pix8) *(Windows - Browser)*
 - [RetroSprite](https://github.com/Theodor908/RetroSprite) *(Windows)*
+
+
+
+## Photography
+
+
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) *(Windows - MacOS - Linux)*
+- [PaintFE](https://apps.microsoft.com/detail/9p51wxfxgd54?hl=nb-NO&gl=NO) *(Windows - Mac - Linux)*
+- [Pixelitor](https://pixelitor.sourceforge.io/) *(Windows - MacOS - Linux)*
+- [PhotoDemon](https://photodemon.org/) *(Windows)*
+- [Patchy](https://github.com/SethRobinson/Patchy) *(Windows - MacOS - Linux - Browser)*
+- [Sable](https://github.com/Drommedhar/sable) *(Windows - MacOS)*
+- [Schist](https://schist.app/) *(Windows - MacOS - Linux - Browser)*
+
+### LightRoom
+
+
+- [ART](https://artraweditor.github.io/) *(Windows - MacOS - Linux)*
+- [RawTherapee](https://www.rawtherapee.com/) *(Windows - MacOS - Linux)*
+- [Showfoto](https://apps.kde.org/es/showfoto/) *(Linux)*
+- [darktable](https://www.darktable.org/) *(Windows - MacOS - Linux)*
+- [digiKam](https://www.digikam.org/) *(Windows - MacOS - Linux)*
+- [LightTable](https://lighttable.app/) *(Windows - MacOS - Linux)*
+- [RapidRAW](https://www.getrapidraw.com/) *(Windows - MacOS - Linux)*
