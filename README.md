@@ -25,7 +25,7 @@ Open-source applications for Developers - Beginners.
 - [LazPaint](https://lazpaint.github.io/) *(Windows - MacOS - Linux)*
 - [AzPainter](https://www.tromjaro.com/es/azpainter/) *(Linux)*
 - [Kleki](https://kleki.com/) *(Broswer)*
-- [miniPaint]() *(Broswer)*
+- [miniPaint](https://viliusle.github.io/miniPaint/) *(Broswer)*
 
 
 
@@ -34,7 +34,7 @@ Open-source applications for Developers - Beginners.
 
 - [Graphite](https://graphite.art/) *(Broswer)*
 - [Inkscape](https://inkscape.app/) *(Windows - MacOS - Linux)*
-- [sK1]([https://sk1project.net/](https://github.com/sk1-project/sk1-wx)) *(Windows - MacOS - Linux)*
+- [sK1](https://sk1project.net/](https://github.com/sk1-project/sk1-wx)) *(Windows - MacOS - Linux)*
 
   ### Live Trace
 
