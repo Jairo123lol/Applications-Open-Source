@@ -17,8 +17,8 @@ Open-source applications for Developers - Beginners.
 ## Paint
 
 
-- [MyPaint] (https://www.mypaint.app/en/) *(Windows - MacOS - Linux)*
-- [GIMP] (https://www.gimp.org/downloads/) *(Windows - MacOS - Linux)*
-- [DrawPile] (https://drawpile.net/) *(Windows - MacOS - Linux)*
-- [Pinta] (https://www.pinta-project.com/) *(Windows - MacOS - Linux)*
-- [Krita] (https://krita.org/es/download/) *(Windows - MacOS - Linux)*
+- [MyPaint](https://www.mypaint.app/en/) *(Windows - MacOS - Linux)*
+- [GIMP](https://www.gimp.org/downloads/) *(Windows - MacOS - Linux)*
+- [DrawPile](https://drawpile.net/) *(Windows - MacOS - Linux)*
+- [Pinta](https://www.pinta-project.com/) *(Windows - MacOS - Linux)*
+- [Krita](https://krita.org/es/download/) *(Windows - MacOS - Linux)*
