@@ -3,7 +3,7 @@ Open-source applications for Developers - Beginners.
 
 > Here are lists of open-source applications for developers, experts, and beginners. Feel free to explore and choose the applications that suit you!
 
-> Collected By: [zJairoArt](https://x.com/zJairoArt)
+> Collected By: [zJairoArt](https://github.com/Jairo123lol)
 
 > Design By: [CodeRetly](https://github.com/RetlyCode)
 
