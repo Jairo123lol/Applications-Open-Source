@@ -44,19 +44,19 @@ Open-source applications for Developers - Beginners.
 - [LazPaint](https://lazpaint.github.io/) *(Windows - MacOS - Linux)*
 - [AzPainter](https://www.tromjaro.com/es/azpainter/) *(Linux)*
 - [Kleki](https://kleki.com/) *(Broswer)*
-- [miniPaint](https://viliusle.github.io/miniPaint/) *(Browesr)*
+- [miniPaint](https://viliusle.github.io/miniPaint/) *(Browser)*
 
 
 
 ## Vector Design
 
-- [Graphite](https://graphite.art/) *(Broswer)*
+- [Graphite](https://graphite.art/) *(Browser)*
 - [Inkscape](https://inkscape.app/) *(Windows - MacOS - Linux)*
 - [sK1](https://github.com/sk1-project/sk1-wx) *(Windows - MacOS - Linux)*
 
   ### Live Trace
 
-- [SVGcode](https://svgco.de/) *(Broswer)*
+- [SVGcode](https://svgco.de/) *(Browser)*
 - [VTracer](https://www.visioncortex.org/vtracer/) *(Windows - MacOS - Linux - Browser)*
 - [Cr8tracer](https://cr8software.net/tracer.html) *(Windows)*
 
@@ -168,7 +168,7 @@ Open-source applications for Developers - Beginners.
 
 - [Natron](https://natrongithub.github.io/) *(Windows - MacOS - Linux)*
 - [Gaffer](https://www.gafferhq.org/) *(Windows - MacOS - Linux)*
-- [Limut](https://lumitlab.com) *(Windows - MacOS - Linux)* **Motion Graphics**
+- [Limut](https://lumitlab.com) *(Windows - MacOS - Linux)*         **Motion Graphics**
 
 
 
