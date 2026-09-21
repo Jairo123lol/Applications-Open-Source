@@ -16,7 +16,6 @@ Open-source applications for Developers - Beginners.
 
 ## Paint
 
-
 - [MyPaint](https://www.mypaint.app/en/) *(Windows - MacOS - Linux)*
 - [GIMP](https://www.gimp.org/downloads/) *(Windows - MacOS - Linux)*
 - [DrawPile](https://drawpile.net/) *(Windows - MacOS - Linux)*
@@ -31,13 +30,11 @@ Open-source applications for Developers - Beginners.
 
 ## Vector Designer
 
-
 - [Graphite](https://graphite.art/) *(Broswer)*
 - [Inkscape](https://inkscape.app/) *(Windows - MacOS - Linux)*
 - [sK1](https://github.com/sk1-project/sk1-wx) *(Windows - MacOS - Linux)*
 
   ### Live Trace
-
 
 - [SVGcode](https://svgco.de/) *(Broswer)*
 - [VTracer](https://www.visioncortex.org/vtracer/) *(Windows - MacOS - Linux - Broswer)*
@@ -46,7 +43,6 @@ Open-source applications for Developers - Beginners.
 
 
 ## Pixel Art
-
 
 - [Aseprite](https://www.aseprite.org/) *(Windows - MacOS - Linux)*
 - [LibreSprite](https://libresprite.github.io/#!/) *(Windows - MacOS - Linux)*
@@ -64,7 +60,6 @@ Open-source applications for Developers - Beginners.
 
 ## Photography
 
-
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) *(Windows - MacOS - Linux)*
 - [PaintFE](https://apps.microsoft.com/detail/9p51wxfxgd54?hl=nb-NO&gl=NO) *(Windows - Mac - Linux)*
 - [Pixelitor](https://pixelitor.sourceforge.io/) *(Windows - MacOS - Linux)*
@@ -74,7 +69,6 @@ Open-source applications for Developers - Beginners.
 - [Schist](https://schist.app/) *(Windows - MacOS - Linux - Browser)*
 
 ### LightRoom
-
 
 - [ART](https://artraweditor.github.io/) *(Windows - MacOS - Linux)*
 - [RawTherapee](https://www.rawtherapee.com/) *(Windows - MacOS - Linux)*
@@ -87,7 +81,6 @@ Open-source applications for Developers - Beginners.
 
 
 ## Animation
-
 
 - [OpenToonz](https://opentoonz.github.io/es/index.html) *(Windows - MacOS - Linux)*
 - [Tahoma2D](https://tahoma2d.org/) *(Windows - MacOS - Linux)*
@@ -107,7 +100,6 @@ Open-source applications for Developers - Beginners.
 
 
 ## Video Editor
-
 
 - [Kdenlive](https://kdenlive.org/es/) *(Windows - MacOS - Linux)*
 - [OpenCut](https://opencut.app/) *(Windows - MacOS - Linux - Browser)*
@@ -137,11 +129,40 @@ Open-source applications for Developers - Beginners.
 
 ### Horonable Mention
 
-- Blender
+- [Blender](https://www.blender.org/) *(Windows - MacOS - Linux)*
+
+
+
+## Motion Graphics
+
+- [Friction](https://friction.graphics/) *(Windows - MacOS - Linux)*
+- [TiXL](https://tixl.app/) *(Windows)*
+- [Cables](https://cables.gl/) *(Windows - MacOS - Linux - Browser)*
+- [Astrofox](https://astrofox.io/) *(Windows - MacOS - Linux)*
+- [Advanced-Effects](https://github.com/Advanced-Effects/Advanced-Effects) **Soon**
+- [Motionity](https://www.motionity.app/) *(Browser)*
+- [Premation](https://www.premation.com/?ref=producthunt) *(Windows - MacOS)*
+- [Morphable](https://www.morphable.video/?utm_source) *(Windows - MacOS - Linux)*
+
+### Composting & Effects
+
+- [Natron](https://natrongithub.github.io/) *(Windows - MacOS - Linux)*
+- [Gaffer](https://www.gafferhq.org/) *(Windows - MacOS - Linux)*
+- [Limut](https://lumitlab.com) *(Windows - MacOS - Linux)* **Motion Graphics**
+
+
+
+## Media Encoder
+
+- [HandBrake](https://handbrake.fr/) *(Windows - MacOS - Linux)*
+- [OpenEncoder](https://github.com/neetfrog/OpenEncoder) *(Windows - MacOS - Linux)*
+- [ShutterEncoder](https://www.shutterencoder.com/#downloads) *(Windows - MacOS - Linux)*
+- [duME](https://mediaeditor.org/docs/?utm_source) *(Windows - MacOS - Linux)*
+- [VCC](https://github.com/pouyaardehkhani/VCC) *(Windows - Linux)*
+
 
 
 ## 3D Modeling
-
 
 - [Blender](https://www.blender.org/) *(Windows - MacOS - Linux)*
 - [Bforartist](https://www.bforartists.de/) *(Windows - MacOS - Linux)*
@@ -153,3 +174,64 @@ Open-source applications for Developers - Beginners.
 - [MeshySmith](https://www.meshysmith.com/?utm_source) *(Windows - MacOS - Linux - Browser)*
 - [Open3DStudio](https://github.com/FishWoWater/Open3DStudio?utm_source) *(Windows - MacOS)*
 - [Art of Illusion](https://artofillusion.github.io/) *(Windows - MacOS - Linux)*
+
+
+
+## Audition
+
+- [Tenacity]() *(Windows - Linux)*
+- [Audacity]() *(Windows - MacOS - Linux)*
+
+### New Audacity
+- [Audacity 4.0]() *(Windows - MacOS)*
+
+### DAW's
+
+- [Ardour](https://ardour.org/) *(Windows - MacOS - Linux)*
+- [Zrythm](https://www.zrythm.org/en/index.html) *(Windows - MacOS - Linux)*
+- [LMMS](https://lmms.io/) *(Windows - MacOS - Linux)*
+- [Qtractor](https://www.qtractor.org/qtractor-downloads.html) *(Linux)*
+- [Hydrogen](https://sourceforge.net/projects/hydrogen/) *(Windows - MacOS - Linux)*
+- [RoseGarden](https://www.rosegardenmusic.com/getting/) *(Linux)*
+
+
+
+## Experience Design
+
+- [Penpot](https://penpot.app/) *(Windows - MacOS - Linux - Browser)*
+- [Draftoola](https://github.com/nitramr/Draftoola) *(Linux)*
+- [Quant-UX](https://quant-ux.com/) *(Windows - MacOS - Linux - Browser)*
+- [Akira](https://github.com/akiraux/Akira) *(Linux)*
+- [Grida](https://grida.co/home) *(Browser)*
+- [OpenPencil](https://openpencil.dev/) *(Windows - MacOS - Linux - Browser)*
+
+## Texture Maker
+
+### Designer
+
+- [TextureLab](https://njbrown.itch.io/texturelab) *(Windows - MacOS - Linux)*
+- [FilterJS](https://comigo.itch.io/filterjs) *(Windows - Linux)*
+- [Material Maker](https://www.materialmaker.org) *(Windows - MacOS - Linux)*
+
+### Painter
+
+- [UcuPaint](https://extensions.blender.org/add-ons/ucupaint/) *(Blender Extension)*
+- [ArmorPaint](https://www.3darchitettura.com/architectools/armorpaint-pbr-texturing/) *(Windows - MacOS - Linux)*
+
+
+
+## InDesign
+
+- [Scribus](https://www.scribus.net/) *(Windows - MacOS - Linux)*
+- [Laidout](https://laidout.org/) *(Linux)*
+
+
+
+## DreamWeaver
+
+- [Pulsar](https://pulsar-edit.dev/) *(Windows - MacOS - Linux)*
+- [NetBeans](https://netbeans.apache.org/front/main/index.html) *(Windows - MacOS - Linux)*
+- [VSCodium](https://vscodium.com/) *(Windows - MacOS - Linux)*
+- [Phoenix](https://phcode.io/) *(Windows - MacOS - Linux)*
+- [Zed](https://zed.dev/) *(Windows - MacOS - Linux)*
+- [Lapce](https://lap.dev/lapce/) *(Windows - MacOS - Linux)*
