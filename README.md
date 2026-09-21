@@ -1,6 +1,8 @@
 # Applications-Open-Source
 Open-source applications for Developers - Beginners.
 
+<img width="1920" height="595" alt="8479534ytj3" src="https://github.com/user-attachments/assets/e81fa82d-475b-407b-a44d-7d2f375ae2cd" />
+
 > Here are lists of open-source applications for developers, experts, and beginners. Feel free to explore and choose the applications that suit you!
 
 > Collected By: [zJairo](https://github.com/Jairo123lol)
