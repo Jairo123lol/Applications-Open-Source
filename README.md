@@ -5,7 +5,7 @@ Open-source applications for Developers - Beginners.
 
 > Collected By: [zJairoArt](https://x.com/zJairoArt)
 
-> Design By: [CodeRetly]
+> Design By: [CodeRetly](https://github.com/RetlyCode)
 
 **Available On:**
 - Windows
