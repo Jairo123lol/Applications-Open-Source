@@ -168,7 +168,7 @@ Open-source applications for Developers - Beginners.
 
 - [Natron](https://natrongithub.github.io/) *(Windows - MacOS - Linux)*
 - [Gaffer](https://www.gafferhq.org/) *(Windows - MacOS - Linux)*
-- [Limut](https://lumitlab.com) *(Windows - MacOS - Linux)*         **Motion Graphics**
+- [Limut](https://lumitlab.com) *(Windows - MacOS - Linux)* **Motion Graphics**
 
 
 
@@ -199,7 +199,7 @@ Open-source applications for Developers - Beginners.
 
 ## Mixamo
 
--[Mesh2Motion](https://mesh2motion.org) *(Broswer)*
+-[Mesh2Motion](https://mesh2motion.org) *(Browser)*
 
 ## Audition
 
