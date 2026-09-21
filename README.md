@@ -13,6 +13,8 @@ Open-source applications for Developers - Beginners.
 **Exploring:**
 
 - [Paint](#paint)
+- [Vector](#vectordesigner)
+- []()
 
 **Aplications**
 
