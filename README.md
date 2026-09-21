@@ -177,13 +177,17 @@ Open-source applications for Developers - Beginners.
 
 
 
+## Mixamo
+
+-[Mesh2Motion](https://mesh2motion.org) *(Broswer)*
+
 ## Audition
 
-- [Tenacity]() *(Windows - Linux)*
-- [Audacity]() *(Windows - MacOS - Linux)*
+- [Tenacity](https://tenacityaudio.org/) *(Windows - Linux)*
+- [Audacity](https://www.audacityteam.org/) *(Windows - MacOS - Linux)*
 
 ### New Audacity
-- [Audacity 4.0]() *(Windows - MacOS)*
+- [Audacity 4.0](https://www.musehub.com/app/audacity) *(Windows - MacOS)*
 
 ### DAW's
 
