@@ -19,7 +19,7 @@ Open-source applications for Developers - Beginners.
 - [Pixel Art](#pixel-art)
 - [Photography](#photography)
 - [LightRoom](#lightroom)
-- [Aimation](#animation)
+- [Animation](#animation)
 - [Video Editor](#video-editor)
 - [Motion Graphics](#motion-graphics)
 - [Composting & Effect](#composting--effects)
