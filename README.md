@@ -10,12 +10,6 @@ Open-source applications for Developers - Beginners.
 - Linux
 - Broswer
 
-**Exploring:**
-
-- [Paint](#paint)
-- [Vector Designer](#vectordesigner)
-- [Pixel Art](#pixel)
-
 **Aplications**
 
 ## Paint
@@ -32,7 +26,7 @@ Open-source applications for Developers - Beginners.
 
 
 
-## Vector Designer
+## Vectors
 
 - [Graphite](https://graphite.art/) *(Broswer)*
 - [Inkscape](https://inkscape.app/) *(Windows - MacOS - Linux)*
