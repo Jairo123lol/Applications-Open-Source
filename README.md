@@ -10,7 +10,9 @@ Open-source applications for Developers - Beginners.
 - Linux
 - Broswer
 
+**Exploring:**
 
+- [Paint](#paint)
 
 **Aplications**
 
