@@ -13,7 +13,7 @@ Open-source applications for Developers - Beginners.
 **Exploring:**
 
 - [Paint](#paint)
-- [Vector Designer](#vector_designer)
+- [Vector Designer](#vectordesigner)
 - [Pixel Art](#pixel)
 
 **Aplications**
