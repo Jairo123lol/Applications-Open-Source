@@ -15,7 +15,21 @@ Open-source applications for Developers - Beginners.
 **Explorin:**
 
 - [Paint](#paint)
-- [Vector Design]
+- [Vector Design](#vector-design)
+- [Pixel Art](#pixel-art)
+- [Photography](#photography)
+- [LightRoom](#lightroom)
+- [Aimation](#animation)
+- [Video Editor](#video-editor)
+- [Motion Graphics](#motion-graphics)
+- [Composting & Effect](#composting--effects)
+- [3D Modeling](#3d-modeling)
+- [Mixamo](#mixamo)
+- [Audition](#audition)
+- [DAW](#daws)
+- [Texture Maker](#texture-maker)
+- [InDesign](#indesign)
+- [DreamWeaver](#dreamweaver)
 
 **Aplications**
 
