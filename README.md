@@ -11,7 +11,7 @@ Open-source applications for Developers - Beginners.
 - Windows
 - MacOS
 - Linux
-- Broswer
+- Browser
 
 **Explorin:**
 
@@ -44,7 +44,7 @@ Open-source applications for Developers - Beginners.
 - [LazPaint](https://lazpaint.github.io/) *(Windows - MacOS - Linux)*
 - [AzPainter](https://www.tromjaro.com/es/azpainter/) *(Linux)*
 - [Kleki](https://kleki.com/) *(Broswer)*
-- [miniPaint](https://viliusle.github.io/miniPaint/) *(Broswer)*
+- [miniPaint](https://viliusle.github.io/miniPaint/) *(Browesr)*
 
 
 
@@ -57,7 +57,7 @@ Open-source applications for Developers - Beginners.
   ### Live Trace
 
 - [SVGcode](https://svgco.de/) *(Broswer)*
-- [VTracer](https://www.visioncortex.org/vtracer/) *(Windows - MacOS - Linux - Broswer)*
+- [VTracer](https://www.visioncortex.org/vtracer/) *(Windows - MacOS - Linux - Browser)*
 - [Cr8tracer](https://cr8software.net/tracer.html) *(Windows)*
 
 
@@ -68,7 +68,7 @@ Open-source applications for Developers - Beginners.
 - [LibreSprite](https://libresprite.github.io/#!/) *(Windows - MacOS - Linux)*
 - [GrafX2](http://grafx2.chez.com/index.php?static3/downloads) *(Windows - MacOS - Linux)*
 - [mtPaint](https://mtpaint.sourceforge.net/) *(Windows - Linux)*
-- [Piskel](https://www.piskelapp.com/) *(Windows - MacOS - Linux - Broswer)*
+- [Piskel](https://www.piskelapp.com/) *(Windows - MacOS - Linux - Browser)*
 - [Pixelorama](https://pixelorama.org/) *(Windows - MacOS - Linux)*
 - [PixiEditor](https://pixieditor.net/) *(Windows - MacOS - Linux)*
 - [Pix2D](https://pix2d.com/) *(Windows - Linux)*
