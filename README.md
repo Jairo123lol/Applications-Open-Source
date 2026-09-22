@@ -33,6 +33,7 @@ Open-source applications for Developers - Beginners.
 - [Texture Maker](#texture-maker)
 - [InDesign](#indesign)
 - [DreamWeaver](#dreamweaver)
+- [Office Suite](#office-suite)
 
 **Aplications**
 
@@ -261,3 +262,13 @@ Open-source applications for Developers - Beginners.
 - [Phoenix](https://phcode.io/) *(Windows - MacOS - Linux)*
 - [Zed](https://zed.dev/) *(Windows - MacOS - Linux)*
 - [Lapce](https://lap.dev/lapce/) *(Windows - MacOS - Linux)*
+
+
+## Office Suite
+
+- [LibreOffice](https://www.libreoffice.org/) *(Windows - MacOS - Linux)*
+- [ONLYOFFICE](https://www.onlyoffice.com/) *(Windows - MacOS - Linux)*
+- [Collabora Office](https://www.collaboraoffice.org/) *(Windows - MacOS - Linux - Browser)*
+- [Calligra](https://calligra.org/) *(Linux)*
+- [OpenOffice](https://openoffice.apache.org/) *(Windows - MacOS - Linux)*
+- [Cryptpad](https://cryptpad.org/) *(Browser)*
