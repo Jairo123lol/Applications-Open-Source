@@ -111,6 +111,7 @@ Open-source applications for Developers - Beginners.
 
 ## Animation
 
+- [Flare](https://github.com/Flare-Animate/Flare) *(Windows - MacOS - Linux)*
 - [OpenToonz](https://opentoonz.github.io/es/index.html) *(Windows - MacOS - Linux)*
 - [Tahoma2D](https://tahoma2d.org/) *(Windows - MacOS - Linux)*
 - [Wick Editor](https://www.wickeditor.com/#/) *(Windows - MacOS - Linux - Browser)*
@@ -121,6 +122,7 @@ Open-source applications for Developers - Beginners.
 - [Enve](https://maurycyliebner.github.io/) *(Windows - MacOS - Linux)*
 - [tupiTube](https://www.tupitube.com/index.php?r=custom_pages%2Fview&id=41) *(Windows - MacOS - Linux)*
 - [AnimeEffects](https://animeeffectsdevs.github.io/) *(Windows - MacOS - Linux)*
+
 
   ### Honorable Mention
   - [Krita](https://krita.org/es/download/) *(Windows - MacOS - Linux)*
