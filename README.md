@@ -5,6 +5,13 @@
 Open-source applications for Developers - Beginners.
 > Here are lists of open-source applications for developers, experts, and beginners. Feel free to explore and choose the applications that suit you!
 
+> Inspiration
+> This project was inspired by KenneyNL's Adobe Alternatives, which helped establish the idea of organizing software alternatives by category.
+
+> This project expands on that concept by focusing on a broader collection of open-source applications across creative, productivity, multimedia, development, and other software categories.
+
+> Thanks to KenneyNL and the contributors of Adobe Alternatives for the inspiration.
+
 > Collected By: [zJairo](https://github.com/Jairo123lol)
 
 > Design By: [CodeRetly](https://github.com/RetlyCode)
