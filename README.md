@@ -20,7 +20,6 @@ Open-source applications for Developers - Beginners.
 - MacOS
 - Linux
 - Browser
-- Blender Add-On
 
 **Explorin:**
 
