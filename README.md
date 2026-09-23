@@ -205,6 +205,7 @@ Open-source applications for Developers - Beginners.
 - [MeshySmith](https://www.meshysmith.com/?utm_source) *(Windows - MacOS - Linux - Browser)*
 - [Open3DStudio](https://github.com/FishWoWater/Open3DStudio?utm_source) *(Windows - MacOS)*
 - [Art of Illusion](https://artofillusion.github.io/) *(Windows - MacOS - Linux)*
+- [SM-Enngine](https://github.com/MEDELBOU3/SM-Engine) *(Windows)*
 
 
 
@@ -257,6 +258,7 @@ Open-source applications for Developers - Beginners.
 ### Stager
 
 - [LichtFeld](https://lichtfeld.io/) *(Windows)*
+- [Threepp](https://github.com/markaren/threepp) *(Windows - Linux)*
 
 ## InDesign
 
