@@ -96,6 +96,7 @@ Open-source applications for Developers - Beginners.
 - [Patchy](https://github.com/SethRobinson/Patchy) *(Windows - MacOS - Linux - Browser)*
 - [Sable](https://github.com/Drommedhar/sable) *(Windows - MacOS)*
 - [Schist](https://schist.app/) *(Windows - MacOS - Linux - Browser)*
+- [ItsPaint](https://itspaintmac.com/) *(MacOS)*
 
 ### LightRoom
 
