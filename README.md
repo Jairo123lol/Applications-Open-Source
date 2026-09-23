@@ -37,7 +37,7 @@ Open-source applications for Developers - Beginners.
 - [Mixamo](#mixamo)
 - [Audition](#audition)
 - [DAW](#daws)
-- [Texture Maker](#texture-maker)
+- [Substance](#substance)
 - [InDesign](#indesign)
 - [DreamWeaver](#dreamweaver)
 - [Office Suite](#office-suite)
