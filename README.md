@@ -207,6 +207,9 @@ Open-source applications for Developers - Beginners.
 - [Open3DStudio](https://github.com/FishWoWater/Open3DStudio?utm_source) *(Windows - MacOS)*
 - [Art of Illusion](https://artofillusion.github.io/) *(Windows - MacOS - Linux)*
 - [SM-Enngine](https://github.com/MEDELBOU3/SM-Engine) *(Windows)*
+- [Dust3D](https://dust3d.org/) *(Windows - MacOS - Linux)*
+- [Serpentine3D](https://chisomobanzi.github.io/Serpentine3D/) *(Windows - MacOS - Linux)*
+- [FreeCAD](https://www.freecad.org/) *(Windows - MacOS - Linux)*
 
 
 
@@ -219,6 +222,8 @@ Open-source applications for Developers - Beginners.
 
 - [Tenacity](https://tenacityaudio.org/) *(Windows - Linux)*
 - [Audacity](https://www.audacityteam.org/) *(Windows - MacOS - Linux)*
+- [OpenDaw](https://github.com/glenwrhodes/OpenDaw) *(Windows - MacOS - Linux)*
+- [TheDAW](https://github.com/gantasmo/theDAW) *(Windows - MacOS)*
 
 ### New Audacity
 - [Audacity 4.0](https://www.musehub.com/app/audacity) *(Windows - MacOS - Linux)*
@@ -228,9 +233,11 @@ Open-source applications for Developers - Beginners.
 - [Ardour](https://ardour.org/) *(Windows - MacOS - Linux)*
 - [Zrythm](https://www.zrythm.org/en/index.html) *(Windows - MacOS - Linux)*
 - [LMMS](https://lmms.io/) *(Windows - MacOS - Linux)*
+- [Nota](https://github.com/nota-daw/nota) *(Windows - Linux)*
 - [Qtractor](https://www.qtractor.org/qtractor-downloads.html) *(Linux)*
 - [Hydrogen](https://sourceforge.net/projects/hydrogen/) *(Windows - MacOS - Linux)*
 - [RoseGarden](https://www.rosegardenmusic.com/getting/) *(Linux)*
+- [OpenStudio](https://github.com/sdevil7th/OpenStudio) *(Windows - MacOS - Linux)*
 
 
 
