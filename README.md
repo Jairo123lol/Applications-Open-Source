@@ -81,7 +81,7 @@ Open-source applications for Developers - Beginners.
 - [Piskel](https://www.piskelapp.com/) *(Windows - MacOS - Linux - Browser)*
 - [Pixelorama](https://pixelorama.org/) *(Windows - MacOS - Linux)*
 - [PixiEditor](https://pixieditor.net/) *(Windows - MacOS - Linux)*
-- [Pix2D](https://pix2d.com/) *(Windows - Linux)*
+- [Pix2D](https://pix2d.com/) *(Windows - MacOC - Linux)*
 - [Besprited](https://github.com/veritaware/Besprited) *(Windows - MacOs - Linux)*
 - [Pix8](https://github.com/DynartInteractive/Pix8) *(Windows - Browser)*
 - [RetroSprite](https://github.com/Theodor908/RetroSprite) *(Windows)*
