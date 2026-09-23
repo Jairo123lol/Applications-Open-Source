@@ -224,6 +224,9 @@ Open-source applications for Developers - Beginners.
 - [Audacity](https://www.audacityteam.org/) *(Windows - MacOS - Linux)*
 - [OpenDaw](https://github.com/glenwrhodes/OpenDaw) *(Windows - MacOS - Linux)*
 - [TheDAW](https://github.com/gantasmo/theDAW) *(Windows - MacOS)*
+- [Resonant](https://github.com/calesthio/Resonant) *(Windows)*
+- [SilverDAW](https://github.com/irarainey/silverdaw) *(Windows)*
+- [LibreTracks](https://libretracks.com/) *(Windows - MacOS - Linux)*
 
 ### New Audacity
 - [Audacity 4.0](https://www.musehub.com/app/audacity) *(Windows - MacOS - Linux)*
