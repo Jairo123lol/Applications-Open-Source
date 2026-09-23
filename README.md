@@ -240,20 +240,23 @@ Open-source applications for Developers - Beginners.
 - [Grida](https://grida.co/home) *(Browser)*
 - [OpenPencil](https://openpencil.dev/) *(Windows - MacOS - Linux - Browser)*
 
-## Texture Maker
+## Substance
 
 ### Designer
 
 - [TextureLab](https://njbrown.itch.io/texturelab) *(Windows - MacOS - Linux)*
 - [FilterJS](https://comigo.itch.io/filterjs) *(Windows - Linux)*
-- [Material Maker](https://www.materialmaker.org) *(Windows - MacOS - Linux)*
+
 
 ### Painter
 
 - [UcuPaint](https://extensions.blender.org/add-ons/ucupaint/) *(Blender Extension)*
 - [ArmorPaint](https://www.3darchitettura.com/architectools/armorpaint-pbr-texturing/) *(Windows - MacOS - Linux)*
+- [Material Maker](https://www.materialmaker.org) *(Windows - MacOS - Linux)*
 
+### Stager
 
+- [LichtFeld](https://lichtfeld.io/) *(Windows)*
 
 ## InDesign
 
