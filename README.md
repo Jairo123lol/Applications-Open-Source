@@ -20,6 +20,7 @@ Open-source applications for Developers - Beginners.
 - MacOS
 - Linux
 - Browser
+- Blender Add-On
 
 **Explorin:**
 
@@ -211,7 +212,8 @@ Open-source applications for Developers - Beginners.
 
 ## Mixamo
 
--[Mesh2Motion](https://mesh2motion.org) *(Browser)*
+- [Mesh2Motion](https://mesh2motion.org) *(Browser)*
+- [Retarget](https://github.com/KBSBAUDRICE/Retarget) *(Blender Add-On)*
 
 ## Audition
 
@@ -247,18 +249,28 @@ Open-source applications for Developers - Beginners.
 
 - [TextureLab](https://njbrown.itch.io/texturelab) *(Windows - MacOS - Linux)*
 - [FilterJS](https://comigo.itch.io/filterjs) *(Windows - Linux)*
+- [NodeMangler](https://github.com/dan335/nodemangle) *(Windows - MacOS - Linux)*
+- [VFXTextureLab](https://github.com/MattyGWS/VFXTextureLab) *(Windows)*
 
 
 ### Painter
 
-- [UcuPaint](https://extensions.blender.org/add-ons/ucupaint/) *(Blender Extension)*
+- [UcuPaint](https://extensions.blender.org/add-ons/ucupaint/) *(Blender Add-On)*
 - [ArmorPaint](https://www.3darchitettura.com/architectools/armorpaint-pbr-texturing/) *(Windows - MacOS - Linux)*
 - [Material Maker](https://www.materialmaker.org) *(Windows - MacOS - Linux)*
+- [MeshCoat](https://stuyk.itch.io/meshcoat) *(Windows - MacOS - Linux)*
 
 ### Stager
 
 - [LichtFeld](https://lichtfeld.io/) *(Windows)*
 - [Threepp](https://github.com/markaren/threepp) *(Windows - Linux)*
+- [Vestige](https://github.com/milnet01/Vestige) *(Windows - MacOS - Linux)*
+
+### Sampler
+- [Forge Material Maker](https://github.com/kizergraphics/Material-Maker) *(Windows)*
+- [MaterialMapGenerator](https://github.com/YahiaAngelo/MaterialMapGenerator) *(Blender Add-On)*
+
+
 
 ## InDesign
 
