@@ -121,7 +121,7 @@ Open-source applications for Developers - Beginners.
 - [Pencil2D](https://www.pencil2d.org/) *(Windows - MacOS - Linux)*
 - [Kage Studio](https://kage.sourceforge.io/?utm_source) *(Windows - MacOS - Linux)*
 - [Enve](https://maurycyliebner.github.io/) *(Windows - MacOS - Linux)*
-- [tupiTube](https://www.tupitube.com/index.php?r=custom_pages%2Fview&id=41) *(Windows - MacOS - Linux)*
+- [TupiTube](https://www.tupitube.com/index.php?r=custom_pages%2Fview&id=41) *(Windows - MacOS - Linux)*
 - [AnimeEffects](https://animeeffectsdevs.github.io/) *(Windows - MacOS - Linux)*
 
 
