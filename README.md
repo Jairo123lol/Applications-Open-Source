@@ -100,6 +100,7 @@ Open-source applications for Developers - Beginners.
 
 ### LightRoom
 
+- [SafeLight](https://github.com/anthonyreimche/SafeLight) *(Windows - MacOS - Linux - Browser)*
 - [ART](https://artraweditor.github.io/) *(Windows - MacOS - Linux)*
 - [RawTherapee](https://www.rawtherapee.com/) *(Windows - MacOS - Linux)*
 - [Showfoto](https://apps.kde.org/es/showfoto/) *(Linux)*
