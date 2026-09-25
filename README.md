@@ -148,7 +148,7 @@ Open-source applications for Developers - Beginners.
 - [LiVES](https://sourceforge.net/projects/lives/files/latest/download) *(MacOS - Linux)*
 - [Drift](https://github.com/CutWire-Studios/Drift) *(Windows - MacOS - Linux)*
 - [Nugget](https://nugget.framer.website/) *(MacOS)*
-- [OpenReel Video](https://openreel.video/) *(Windows - MacOS - Linux)*
+- [OpenReel Video](https://openreel.video/) *(Windows - MacOS - Linux - Browser)*
 - [OpenChatCut](https://github.com/0xsline/OpenChatCut) *(Windows - MacOS - Linux)*
 - [FreeCut](https://www.freecut.net/) *(Browser)*
 - [Diffusion](https://app.diffusion.studio/) *(MacOS - Browser)*
