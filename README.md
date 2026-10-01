@@ -27,7 +27,7 @@ Open-source applications for Developers - Beginners.
 - [Vector Design](#vector-design)
 - [Pixel Art](#pixel-art)
 - [Photography](#photography)
-- [LightRoom](#lightroom)
+- [RAW](#raw)
 - [Animation](#animation)
 - [Video Editor](#video-editor)
 - [Motion Graphics](#motion-graphics)
