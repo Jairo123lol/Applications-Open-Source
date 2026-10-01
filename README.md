@@ -155,10 +155,8 @@ Open-source applications for Developers - Beginners.
 - [FreeCut](https://www.freecut.net/) *(Browser)*
 - [Diffusion](https://app.diffusion.studio/) *(MacOS - Browser)*
 - [Sprocket](https://sprocketvideo.org/) *(Windows - MacOS - Linux)*
-- [Beutl](https://beutl.beditor.net/#features-audio) *(Windows - MacOS - Linux)*
 - [WeftCut](https://github.com/WeftCut/WeftCut) *(Windows - MacOS - Linux)*
 - [amber](https://github.com/baptisterajaut/amber) *(Windows - MacOS)*
-- [Kerf](https://orellbuehler.github.io/kerf/) *(Windows - MacOS - Linux)*
 - [Velorn](https://velorn.ai/) *(Windows)*
 - [VirtualDub](https://www.virtualdub.org/) *(Windows)*
 
@@ -178,6 +176,7 @@ Open-source applications for Developers - Beginners.
 - [Motionity](https://www.motionity.app/) *(Browser)*
 - [Premation](https://www.premation.com/?ref=producthunt) *(Windows - MacOS)*
 - [Morphable](https://www.morphable.video/?utm_source) *(Windows - MacOS - Linux)*
+- [Beutl](https://beutl.beditor.net/#features-audio) *(Windows - MacOS - Linux)*
 
 ### Composting & Effects
 
