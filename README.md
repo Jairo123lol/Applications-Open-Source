@@ -54,6 +54,7 @@ Open-source applications for Developers - Beginners.
 - [AzPainter](https://www.tromjaro.com/es/azpainter/) *(Linux)*
 - [Kleki](https://kleki.com/) *(Broswer)*
 - [miniPaint](https://viliusle.github.io/miniPaint/) *(Browser)*
+- [Ruwa](https://accretion.pro/) *(Windows)*
 
 
 
@@ -97,8 +98,10 @@ Open-source applications for Developers - Beginners.
 - [Sable](https://github.com/Drommedhar/sable) *(Windows - MacOS)*
 - [Schist](https://schist.app/) *(Windows - MacOS - Linux - Browser)*
 - [ItsPaint](https://itspaintmac.com/) *(MacOS)*
+- [Pikado](https://pikado.koneb.me/) *(Browser)*
+- [PhotoSuite](https://github.com/eolix/photosuite) *(Windows - MacOS - Linux)*
 
-### LightRoom
+### RAW
 
 - [SafeLight](https://github.com/anthonyreimche/SafeLight) *(Windows - MacOS - Linux - Browser)*
 - [ART](https://artraweditor.github.io/) *(Windows - MacOS - Linux)*
@@ -148,7 +151,6 @@ Open-source applications for Developers - Beginners.
 - [LiVES](https://sourceforge.net/projects/lives/files/latest/download) *(MacOS - Linux)*
 - [Drift](https://github.com/CutWire-Studios/Drift) *(Windows - MacOS - Linux)*
 - [Nugget](https://nugget.framer.website/) *(MacOS)*
-- [OpenReel Video](https://openreel.video/) *(Windows - MacOS - Linux - Browser)*
 - [OpenChatCut](https://github.com/0xsline/OpenChatCut) *(Windows - MacOS - Linux)*
 - [FreeCut](https://www.freecut.net/) *(Browser)*
 - [Diffusion](https://app.diffusion.studio/) *(MacOS - Browser)*
