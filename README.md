@@ -14,10 +14,10 @@ Open-source applications for Developers - Beginners.
 > Collected By: [zJairo](https://github.com/Jairo123lol)
 
 **Available On:**
-- Windows
-- MacOS
-- Linux
-- Browser
+- Windows 🪟
+- MacOS 🍎
+- Linux 🐧
+- Browser 🌐
 
 **Explorin:**
 
